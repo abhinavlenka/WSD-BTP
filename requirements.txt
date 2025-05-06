@@ -1,0 +1,12 @@
+auto_mix_prep==0.2.0
+gensim==4.3.3
+googletrans==4.0.0rc1
+matplotlib==3.5.1
+nltk==3.8.1
+numpy==1.22.4
+numpy==1.21.5
+scikit_learn==1.6.1
+simalign==0.4
+torch==2.7.0+cu128
+tqdm==4.67.0
+transformers==4.46.2
